@@ -5,6 +5,7 @@
   margin-left:  27%;
     background-color: black;
     border: 1px solid gold;
+   position:relative;
  
 }
 .first{
@@ -16,6 +17,7 @@
     background-color:black;
     color:gold;
     text-align: center;
+   position:relative;
     
 
 }
