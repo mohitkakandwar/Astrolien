@@ -1,0 +1,116 @@
+@viewport{
+    zoom: 1.0;
+    width: extend-to-zoom;
+}
+@-ms-viewport{
+    width: extend-to-zoom;
+    zoom: 1.0;
+}
+
+body{
+    background: linear-gradient(to right ,goldenrod,navy);
+}
+
+
+.head{
+   color:black;
+   font-style: italic;
+   fo
+    height: 170px;
+    width: 1520px;
+}
+#name{
+    width: 1000px;
+    font-size: 900%;
+    margin-left: 5%;
+}
+#sir{
+    margin-top: -8%;
+    margin-left: 30%;
+    color: white;
+}
+
+
+.main{
+    width: 1520px;
+    height: 520px;
+    
+    background-color:transparent;
+}
+
+.sidebar{
+    width: 290px;
+    height: 520px;
+    float: left;
+    background-color: transparent;
+}
+
+.showcase{
+    width: 920px;
+    margin-left: 25%;
+    margin-top: 1%;
+    height: 380px;
+    background-color:transparent;
+}
+
+.list{
+    
+    list-style: none;
+    margin-top: -4%;
+    margin-left: 68%;
+}
+
+.list li{
+    display: inline;
+   padding: 1%;
+   font-size: 200%;
+   
+   
+}
+.list li a ,.list2 li a{
+    color: white;
+    text-decoration: none;
+}
+
+.list2{
+    margin-top: 9%;
+    font-size: 220%;
+   
+}
+.list2 li{
+    padding-top: 6%;
+  
+}
+.pic{
+    margin-left: 25%;
+   
+    background-color: transparent;
+    width: 920px;
+ 
+}
+.pic img{
+    width: 60px;
+   padding-left: 18%;
+   margin-left: 3%;
+
+    
+
+}
+
+.list3{
+    margin-top: 0%;
+}
+
+.list3 li{
+display: inline;
+font-size: 180%;
+
+margin-left: 16%;
+
+}
+
+.list3 li a{
+    color:white;
+    
+}
+
