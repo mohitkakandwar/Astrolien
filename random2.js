@@ -31,9 +31,11 @@ var div =document.getElementById("real").appendChild(h1);
 
         
     }
-
+    document.getElementById('button').disabled = true;
+    
 }
 
 function Again(){
     document. location. reload();
 }
+
